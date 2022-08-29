@@ -10,8 +10,6 @@
 
 
 
-
-
 R es un lenguaje de programación diseñado para el análisis estadístico que goza de gran popularidad en el ámbito académico y comercial. Fue concebido como un software libre, lo que significa que su código puede ser manipulado y adaptado a las necesidades de los usuarios. Gracias a ello, su uso se ha extendido a otras áreas como la minería de texto, análisis espacial o el diseño de páginas web, además se puede vincular con otros programas como Python, Stata o Tableau.
 
 El objetivo de este curso es proporcionar las **bases metodológicas** para usar R. Para logarlo, el taller se organiza en torno a tres ejes:
@@ -24,10 +22,15 @@ El objetivo de este curso es proporcionar las **bases metodológicas** para usar
 * Reflexionar sobre las ventajas/desventajas de R
 
 
-Material adicional:   [CURSO](https://www.sigma161.com/R-intro/)
+## Material adicional:   
+
+<p align="left">
+   <a href="https://www.sigma161.com/R-intro/"><img src="https://user-images.githubusercontent.com/13545121/187106364-dccc1730-a0e8-4634-96da-16227d5182f2.PNG" width="100" height="50" alt="DOI">
+<p align="left">
+   <a href="https://www.youtube.com/channel/UCqFqrso2IfSX_N-J1ZicKFA"><img src="https://user-images.githubusercontent.com/13545121/187106452-356da2db-d3bd-4429-95a6-b60f4afe7448.PNG" width="70" height="50" alt="DOI">
+<p align="left">
+<p align="left">
+   <a href="https://zenodo.org/badge/latestdoi/396588644"><img src="https://zenodo.org/badge/396588644.svg" alt="DOI">
+<p align="left">
 
 
-<p align="center">
-   <a href="https://zenodo.org/badge/latestdoi/396588644"><img src="https://zenodo.org/badge/396588644.svg" alt="DOI"></a>
-</p>
-<p align="center">
