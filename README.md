@@ -29,8 +29,5 @@ El objetivo de este curso es proporcionar las **bases metodológicas** para usar
 <p align="left">
    <a href="https://www.youtube.com/channel/UCqFqrso2IfSX_N-J1ZicKFA"><img src="https://user-images.githubusercontent.com/13545121/187106452-356da2db-d3bd-4429-95a6-b60f4afe7448.PNG" width="70" height="50" alt="DOI">
 <p align="left">
-<p align="left">
-   <a href="https://zenodo.org/badge/latestdoi/396588644"><img src="https://zenodo.org/badge/396588644.svg" alt="DOI">
-<p align="left">
 
 
