@@ -2,7 +2,7 @@
   
   <h3 align="center"><img src="https://user-images.githubusercontent.com/13545121/130408397-ed35f7bc-8cdf-42dc-a539-5c301812f1f1.png" align="centre" height="160" /></h3>
  
-  <h3 align="center">Introducción y análisis estadístico con R</h3>
+  <h3 align="center">Análisis estadístico con R</h3>
 </p>
 
 ----
